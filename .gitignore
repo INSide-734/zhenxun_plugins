@@ -1,3 +1,2 @@
 .env.dev
-configs/config.yaml
 dockerfile
